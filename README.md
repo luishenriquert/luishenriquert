@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @luishenriquert
+- 👋 Olá, prazer!  @luishenriquert
 - 👀 Objetivo aqui é centrlaizar todo meu aprendizado e desenvolvimento de algortimos de Pesquisa Operacional | Simulação | Aplicado à Saúde (e outras áreas afins se possível)
 - 💞️ uscando colaboração na área de estudo de otimização de processos com variáveis, modelagem matemática à processos, alocação de recursos na saúde.
 
